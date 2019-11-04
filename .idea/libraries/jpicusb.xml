@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpicusb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jpicusb 1.1.1/jpicusb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
